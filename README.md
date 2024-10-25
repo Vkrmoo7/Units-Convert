@@ -38,20 +38,3 @@ Feel free to fork this repository and make your own changes. Contributions are w
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-
-
-### Logos
-To add the programming language logos, I used badges from [shields.io](https://shields.io/). The Python badge shows the version compatibility.
-
-#### Adding a Screenshot
-Don't forget to add a screenshot to the `Screenshots` section. Save your screenshot in the project directory and replace `path_to_your_screenshot_image.png` with the actual path to your image file.
-
-### Steps to Include README in GitHub
-1. **Create the README.md File:** 
-   - Open VS Code.
-   - Create a new file named `README.md`.
-   - Copy the above content into the `README.md` file.
-
-2. **Add the README.md File:**
-   ```bash
-   git add README.md
